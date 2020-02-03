@@ -1,0 +1,13 @@
+---
+name: luna_pinyin.my
+version: "1.0"
+sort: by_weight
+use_preset_vocabulary: true
+# 此处为扩充词库（基本）默认链接载入的词库
+import_tables:
+  - luna_pinyin
+...
+
+# 自定义词语
+英雄联盟    ying xiong leng meng    100
+吃鸡联盟    chi ji lian meng    100
